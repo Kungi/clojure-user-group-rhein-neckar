@@ -1,0 +1,22 @@
+---
+layout: default
+title: Clojure User Group Rhein Neckar
+---
+
+<h1>Clojure User Group Rhein Neckar</h1>
+
+<p>Die Clojure User Group Rhein Neckar trifft sich regelmäßig am zweiten Mittwoch im Monat.
+  Das Treffen wird rechtzeitig announced.</p>
+
+<p class="intro">
+  Index
+</p>
+
+<div class="listing">
+    {% for post in site.posts %}
+    <div class="post other link">
+      <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+      <p class="post-date">{{ post.date | date_to_string }} - <span class="author">{{ post.author }}</span></p>
+    </div>
+    {% endfor %}
+</div>
