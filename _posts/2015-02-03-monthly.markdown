@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Nächstes monatliches Treffen"
+published: true
+author: Christian Weilbach
+category: Monatliche Treffen
+---
+
+# Wann?
+
+Mittwoch, 11. Februar 2015
+
+# Wo?
+
+[Dezernat 16, Kultur- und Kreativwirtschaftszentrum, Emil-Maier-Strasse 16, Heidelberg](http://maps.google.com/maps?f=q&hl=en&q=Emil-Maier-Strasse+16%2C+Heidelberg%2C+de)
+
+# Was?
+
+Wir treffen uns einmal im Monat um uns zu Clojure und funktionaler
+Programmierung auszutauschen. Auch Neulinge, Anhänger
+nicht-funktionaler Programmiersprachen oder Gegner der Klammern ;-)
+sind gerne willkommen. Wir machen sowohl JVM-basierte Programmierung,
+als auch ClojureScript und alles was zur Web-Entwicklung gehört.
+
+Bei Interesse haben wir auch Vorträge:
+
+1. Vortrag (ca. 30 Minuten)
+   Web Entwicklung in Clojure - Tools und Best Practices (Andreas Klein)
+
+        Andreas ist Mitarbeiter der DemandFlow GmbH und entwickelt
+        eine Web Software in Clojure. Seit ca. einem Jahr beschäftigt
+        er sich professionell mit Clojure Entwicklung.
+
+2. Vortrag (ca. 30 Minuten)
+   Managing distributed state in modern Web-Applications - Ein git-artiger P2P-Versuch mit CRDTs (Christian Weilbach)
+
+        Christian schreibt gerade seine Bachelorarbeit zu
+        Deep-Learning. Er entwickelt seit 3 Jahren hauptsächlich in
+        Clojure, von Backend-Anwendungen, typischen Algorithmen bis zu
+        React basierten Web-Anwendungen.
+
+
+Danach bestellen wir etwas zu essen (z.b. Pizza) und tauschen uns
+gerne zwanglos aus.
+
+# Links
+
+- <http://www.meetup.com/Clojure-User-Group-Rhein-Neckar/events/220275873/>
