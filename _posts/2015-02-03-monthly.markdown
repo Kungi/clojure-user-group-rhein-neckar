@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nächstes monatliches Treffen"
+title: "Treffen am 11.02.2015 in Heidelberg"
 published: true
 author: Christian Weilbach
 category: Monatliche Treffen
