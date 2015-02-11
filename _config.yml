@@ -1,6 +1,6 @@
 name: White Paper
 markdown: redcarpet
 hlighlighter: true
-url: http://hackers-little-helpers.com
-description: Hackers little Helpers Blog
+url: http://clojure-user-group-rhein-neckar.de
+description: Clojure User Group Rhein Neckar
 exclude: [.hyde.el]
